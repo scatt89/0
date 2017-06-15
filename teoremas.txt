@@ -3,3 +3,4 @@ rufini
 parménides
 copénico
 galileo
+minga
